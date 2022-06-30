@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-client-jdbc/config-client-jdbc.iml" filepath="$PROJECT_DIR$/config-client-jdbc/config-client-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client-jdbc-another/config-client-jdbc-another.iml" filepath="$PROJECT_DIR$/config-client-jdbc-another/config-client-jdbc-another.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-jdbc-database/config-server-jdbc-database.iml" filepath="$PROJECT_DIR$/config-server-jdbc-database/config-server-jdbc-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-jdbc-refresh.iml" filepath="$PROJECT_DIR$/spring-cloud-config-jdbc-refresh.iml" />
+    </modules>
+  </component>
+</project>

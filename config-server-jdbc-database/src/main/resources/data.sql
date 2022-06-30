@@ -1,0 +1,4 @@
+INSERT INTO DB.my_properties (id,application,profile,label,property_key ,property_value) values (1,'config-client-jdbc','dev','dev','dummy.message','this dummy message is from sql');
+INSERT INTO DB.my_properties (id,application,profile,label,property_key ,property_value) values (2,'config-client-jdbc','dev','dev','welcome.message','this welcome message is from sql');
+INSERT INTO DB.my_properties (id,application,profile,label,property_key ,property_value) values (5,'config-client-jdbc-another','dev','dev','dummy.message','this dummy message is from sql config-client-another');
+INSERT INTO DB.my_properties (id,application,profile,label,property_key ,property_value) values (6,'config-client-jdbc-another','dev','dev','welcome.message','this welcome message is from sql config-client-another');
